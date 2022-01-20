@@ -1,0 +1,13 @@
+superuser
+username - ekesel
+email - ekaanshsahni@gmail.com 
+password - kt6uqn0kss
+
+username - ekaansh
+email - ekesel27@gmail.com 
+password - kt6uqn0kss
+
+
+username - vasu 
+email - ekesel03@gmail.com 
+password - kt6uqn0kss
